@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!--#include virtual="includes/meta-tags.html" -->
+    <title>Swaragh Template || Yelahanka</title>
+</head>
+
+<body>
+
+    <main class="wrapper">
+        <!--#include virtual="includes/header.html" -->
+
+        <section class="banner-index">
+            <div class="banner-video">
+                <video class="wrapper-layer-banner" loop="" muted="" autoplay="" preload="auto" style="width: 100%;">
+                    <source src="./images/video-1.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+                <div class="text">
+                    <p>Swaragh Technologies Areas of focus in offering services around the Globe are</p>
+                    <div>
+                        <strong class="banner-text-animation">
+                            <span class="word wisteria">Educational</span>
+                            <span class="word belize">Commercial</span>
+                            <span class="word pomegranate">Industrial</span>
+                        </strong>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="about-index-wrap">
+            <div class="container">
+                <div class="inner-about-index">
+                    <div class="topfrst-about-index">
+                        <article class="top-left-about-index-section">
+                            <h3>Welcome to <br> <span class="website-title" data-text="Swaragh">Swaragh</span> <span
+                                    class="title-2nd">Technologies</span> <br> adding wings to your dreams..</h3>
+                        </article>
+                        <article class="top-right-about-index-section">
+                            <p class="initial-letter">Swaragh Technologies, one of the leading website design and
+                                development businesses, has been one of the top solutions to display its unique
+                                solutions in many categories such as Website Design, Web Development, Web Software
+                                Implementation, and Digital Marketing.</p>
+                            <p>Why does one need a website? Why is it significant in today's technologically advanced
+                                world? Why is social media marketing one of the most efficient marketing methods? How do
+                                I brand my firm? How to enrich my business to reach people globally?</p>
+                            <p>Alright!! There is no need to be concerned about these features. Swaragh Technologies is
+                                a one-stop solution for all of the aforementioned industries.</p>
+                            <p>Do you want to pique your audience's interest? Do you want to start a revolution with
+                                your brand, which we will assist you in developing? Come collaborate with Swaragh
+                                Technologies, one of Bangalore's finest website designers, to add wings to your dreams.
+                            </p>
+                        </article>
+                    </div>
+                    <div class="bottomlast-about-index-section">
+                        <article class="about-counter gold" data-aos="zoom-out-left">
+                            <h3 class="h3-animation">Project Delivered</h3>
+                            <div class="img-animation"><img src="images/icons/page-laod-speed.png"
+                                    data-src="images/icons/page-laod-speed.png" alt=""></div>
+                            <div class="loader">
+                                <span class="count">300</span>
+                                <span>+</span>
+                            </div>
+                        </article>
+                        <article class="about-counter lite-gold" data-aos="zoom-out-right">
+                            <h3 class="h3-animation">Patent Registered</h3>
+                            <div class="img-animation"><img src="images/icons/mobile-browser-compatibility.png"
+                                    data-src="images/icons/mobile-browser-compatibility.png" alt=""></div>
+                            <div class="loader">
+                                <span class="count">18</span>
+                                <span>+</span>
+                            </div>
+                        </article>
+                        <article class="about-counter gold" data-aos="zoom-out-left">
+                            <h3 class="h3-animation">Creative Team</h3>
+                            <div class="img-animation"><img src="images/icons/quality-content.png"
+                                    data-src="images/icons/quality-content.png" alt=""></div>
+                            <div class="loader">
+                                <span class="count">50</span>
+                                <span>+</span>
+                            </div>
+                        </article>
+                        <article class="about-counter lite-gold" data-aos="zoom-out-right">
+                            <h3 class="h3-animation">Years of Expertise</h3>
+                            <div class="img-animation"><img src="images/icons/young-minds.png"
+                                    data-src="images/icons/young-minds.png" alt=""></div>
+                            <div class="loader">
+                                <span class="count">16</span>
+                                <span>+</span>
+                            </div>
+                        </article>
+                    </div>
+                    <a href="#" class="show-more-btn">Know More
+                        <p>
+                            <span class="long-line"></span>
+                            <span class="span-prev"></span>
+                        </p>
+                    </a>
+                    <button style="background: unset;border: unset;" data-aos="flip-left"
+                    data-aos-easing="ease-out-cubic"
+                    data-aos-duration="2000">
+                </div>
+            </div>
+        </section>
+
+        <section class="advertise-wraper">
+            <div class="container">
+                <div class="inner-advertise-container">
+                    <p>India's leading Web Design Company in Bangalore, providing best website designing and development
+                        services globally</p>
+                    <button style="background: unset;border: unset;" data-aos="flip-left"
+                    data-aos-easing="ease-out-cubic"
+                    data-aos-duration="2000"><a href="#"
+                            class="default-buton bg-gold-button">Know More
+                            <p>
+                                <span class="long-line"></span>
+                                <span class="span-prev"></span>
+                            </p>
+                        </a></button>
+                </div>
+            </div>
+        </section>
+
+        <section class="logo-slider-wrap">
+            <div class="container">
+                <div class="inner-logo-slider-container">
+                    <div class="logo-slider-details owl-carousel">
+                        <div class="particular-logo-sec">
+                            <a href="javascript:void(0)">
+                                <img alt="3M" src="./images/inner-images/3M.png">
+                            </a>
+                        </div>
+                        <div class="particular-logo-sec">
+                            <a href="javascript:void(0)">
+                                <img alt="abhivava" src="./images/inner-images/abhivava.png">
+                            </a>
+                        </div>
+                        <div class="particular-logo-sec">
+                            <a href="javascript:void(0)">
+                                <img alt="bel" src="./images/inner-images/bel.png">
+                            </a>
+                        </div>
+                        <div class="particular-logo-sec">
+                            <a href="javascript:void(0)">
+                                <img alt="itc" src="./images/inner-images/itc.png">
+                            </a>
+                        </div>
+                        <div class="particular-logo-sec">
+                            <a href="javascript:void(0)">
+                                <img alt="SB" src="./images/inner-images/SB.png">
+                            </a>
+                        </div>
+                        <div class="particular-logo-sec">
+                            <a href="javascript:void(0)">
+                                <img alt="vivo" src="./images/inner-images/vivo.png">
+                            </a>
+                        </div>
+                        <div class="particular-logo-sec">
+                            <a href="javascript:void(0)">
+                                <img alt="itc" src="./images/inner-images/itc.png">
+                            </a>
+                        </div>
+                        <div class="particular-logo-sec">
+                            <a href="javascript:void(0)">
+                                <img alt="SB" src="./images/inner-images/SB.png">
+                            </a>
+                        </div>
+                        <div class="particular-logo-sec">
+                            <a href="javascript:void(0)">
+                                <img alt="vivo" src="./images/inner-images/vivo.png">
+                            </a>
+                        </div>
+                    </div>
+                    <article class="our-expertices-wrapper">
+                        <div class="logo-slider-bg">
+                            <h2 data-aos="zoom-out-left">Our Expertise</h2>
+                            <div class="work-bg-h" data-aos="zoom-out-right">
+                                <h2>OUR EXPERTISE</h2>
+                            </div>
+                        </div>
+                        <p>Swaragh keeps up with today's demands, advancements, and perceptions by building new web applications in web design and web development and supported by strong computing architectures and technological upgrades, all of which are essential for the expansion of the Internet Economy and emerging communication technologies. As a result, consumers see us as the top Website Development firm in Bangalore.</p>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+        <section class="remove-elipsis-nd-revel">
+            <div class="container">
+                <div class="inner-elipsis-revel-wrap" data-aos="fade-right">
+                    <div class="card-revel">
+                        <div class="image-revel"><img src="./images/expert/ui-ux.jpg" alt=""></div>
+                        <article class="para-elips">
+                            <h3>Branding</h3>
+                            <p class="text1"
+                                data-config='{ "type": "text", "element": "div", "limit": 80, "more": "Show More ↓", "less": "show less ↑"}'>
+                                We can assist you with developing logos, colors, forms, brand envisioning, brand
+                                representation, and so on.
+                            </p>
+                        </article>
+                    </div>
+                    <div class="card-revel second-card">
+                        <div class="image-revel"><img src="./images/expert/ui-ux.jpg" alt=""></div>
+                        <article class="para-elips">
+                            <h3>Web Design</h3>
+                            <p class="text1"
+                                data-config='{ "type": "text", "element": "div", "limit": 80, "more": "Show More ↓", "less": "show less ↑"}'>
+                                We provide a customized and ERP-designed website that will catapult your brand to new
+                                heights among clients.
+                            </p>
+                        </article>
+                    </div>
+                    <div class="card-revel third-card">
+                        <div class="image-revel"><img src="./images/expert/ui-ux.jpg" alt=""></div>
+                        <article class="para-elips">
+                            <h3>UI / UX</h3>
+                            <p class="text1"
+                                data-config='{ "type": "text", "element": "div", "limit": 80, "more": "Show More ↓", "less": "show less ↑"}'>
+                                We have an efficient with a set of excellent developers who craft our websites with the
+                                most recent technologies.
+                            </p>
+                        </article>
+                    </div>
+                </div>
+                <div class="inner-elipsis-revel-wrap second-elips-section" data-aos="fade-left">
+                    <div class="card-revel frst-card">
+                        <div class="image-revel"><img src="./images/expert/ui-ux.jpg" alt=""></div>
+                        <article class="para-elips">
+                            <h3>Digital Marketing</h3>
+                            <p class="text1"
+                                data-config='{ "type": "text", "element": "div", "limit": 80, "more": "Show More ↓", "less": "show less ↑"}'>
+                                We have a team of content writers, digital marketers, and SEO experts who work along
+                                with the web development and design team.
+                            </p>
+                        </article>
+                    </div>
+                    <div class="card-revel second-card">
+                        <div class="image-revel"><img src="./images/expert/ui-ux.jpg" alt=""></div>
+                        <article class="para-elips">
+                            <h3>Mobile App</h3>
+                            <p class="text1"
+                                data-config='{ "type": "text", "element": "div", "limit": 80, "more": "Show More ↓", "less": "show less ↑"}'>
+                                we have a well-structured team of app developers who can implement a website design and
+                                development that can be operated from the phone.
+                            </p>
+                        </article>
+                    </div>
+                    <div class="card-revel third-card">
+                        <div class="image-revel"><img src="./images/expert/ui-ux.jpg" alt=""></div>
+                        <article class="para-elips">
+                            <h3>E Commerce</h3>
+                            <p class="text1"
+                                data-config='{ "type": "text", "element": "div", "limit": 80, "more": "Show More ↓", "less": "show less ↑"}'>
+                                Having an e-commerce alternative available for your brand at all times is a wise
+                                decision. Come design and develop an e-commerce website.
+                            </p>
+                        </article>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="our-door-wraper">
+            <div class="container">
+                <div class="inner-our-door-section">
+                    <article class="right-section-our-door">
+                        <div class="waviy">
+                            <span style="--i:1">Our</span>
+                            <span style="--i:2">Door</span>
+                            <span style="--i:3">is</span>
+                            <span style="--i:4">open</span>
+                            <span style="--i:5">for</span>
+                            <span style="--i:6">You</span>
+                            <span style="--i:7">to</span>
+                            <span style="--i:8">discuss</span>
+                            <span style="--i:9">work</span>
+                            <span style="--i:10">over</span>
+                            <span style="--i:11">coffee</span>
+                        </div>
+                        <button style="background: unset;border: unset;"><a href="#"
+                                class="default-buton bg-gold-button">Click Here
+                                <p>
+                                    <span class="long-line"></span>
+                                    <span class="span-prev"></span>
+                                </p>
+                            </a></button>
+                    </article>
+                </div>
+
+            </div>
+        </section>
+
+        <section class="tabination-index-wrap">
+            <div class="container">
+                <div class="inner-our-creative-sec">
+                    <article class="our-creative-wrapper">
+                        <div class="logo-bg-creative">
+                            <h2>Our Creative Work</h2>
+                            <div class="work-bg-h">
+                                <h2>OUR CREATIVE WORK</h2>
+                            </div>
+                        </div>
+                        <p>Below are some of the works that we have carried across in different sectors that we are able to offer. This is a result of hard work and perseverance by our developers, UI designers, content writers, digital marketers, and so on. Please have a look at the below:</p>
+                    </article>
+                    <div class="inner-tab-wrap">
+                        <input type="radio" name="slider" checked id="home">
+                        <input type="radio" name="slider" id="blog">
+                        <input type="radio" name="slider" id="code">
+                        <nav>
+                            <label for="home" class="home">Home</label>
+                            <label for="blog" class="blog">Blog</label>
+                            <label for="code" class="code">Code</label>
+                            <div class="slider"></div>
+                        </nav>
+                        <section class="contente-tabination-box">
+                            <div class="content content-1">
+                                <a><img src="images/home-page-imgs/our-creative-website/adarsha-1.png" alt="Website Designing"></a>
+                                <a><img src="images/home-page-imgs/our-creative-website/bel-b.jpg" alt="Website Designing"></a>
+                                <a><img src="images/home-page-imgs/our-creative-website/bt-rudresh-b.jpg" alt="Website Designing"></a>
+                                <a><img src="images/home-page-imgs/our-creative-website/nalanda-gurukul-b.jpg" alt="Website Designing"></a>
+                                <a><img src="images/home-page-imgs/our-creative-website/nava-riyalty-b.jpg" alt="Website Designing"></a>
+                                <a><img src="images/home-page-imgs/our-creative-website/rahul-kapoor-b.jpg" alt="Website Designing"></a>
+                                <a><img src="images/home-page-imgs/our-creative-website/set-b.jpg"  alt="Website Designing"></a>
+                                <a><img src="images/home-page-imgs/our-creative-website/skdc-b.jpg" alt="Website Designing"></a>
+                                <a><img src="images/home-page-imgs/our-creative-website/tgpl-b.jpg"  alt="Website Designing"></a>
+                                <a><img src="images/home-page-imgs/our-creative-website/vet-b.jpg" alt="Website Designing"></a>
+                                <a><img src="images/home-page-imgs/our-creative-website/vishwagramodaya-b.jpg" alt="Website Designing"></a>
+                                <a><img src="images/home-page-imgs/our-creative-website/wpk-b.jpg" alt="Website Designing"></a>
+                            </div>
+                            <div class="content content-2">
+                                <a><img src="images/home-page-imgs/uiux/uiux-1b.jpg"  alt="GUI / UX Designing"></a>
+                                <a><img src="images/home-page-imgs/uiux/uiux-2b.jpg"  alt="GUI / UX Designing"></a>
+                                <a><img src="images/home-page-imgs/uiux/uiux-3b.jpg"  alt="GUI / UX Designing"></a>
+                            </div>
+                            <div class="content content-3">
+                                <a><img src="images/home-page-imgs/graphic-design/graphic-design-1b.jpeg"   alt="Graphic Designing"></a>
+                                <a><img src="images/home-page-imgs/graphic-design/graphic-design-2.jpg"  alt="Graphic Designing"></a>
+                                <a><img src="images/home-page-imgs/graphic-design/graphic-design-3b.jpeg" alt="Graphic Designing"></a>
+                                <a><img src="images/home-page-imgs/graphic-design/graphic-design-4b.jpeg" alt="Graphic Designing"></a>
+                                <a><img src="images/home-page-imgs/graphic-design/graphic-design-5b.jpeg"   alt="Graphic Designing"></a>
+                                <a><img src="images/home-page-imgs/graphic-design/graphic-design-6b.jpeg"   alt="Graphic Designing"></a>
+                                <a><img src="images/home-page-imgs/graphic-design/graphic-design-7b.jpeg"  alt="Graphic Designing"></a>
+                                <a><img src="images/home-page-imgs/graphic-design/graphic-design-8b.jpg"  alt="Graphic Designing"></a>
+                                <a><img src="images/home-page-imgs/graphic-design/graphic-design-9.jpg"  alt="Graphic Designing"></a>
+                                <a><img src="images/home-page-imgs/graphic-design/graphic-design-10.jpg"  alt="Graphic Designing"></a>
+                                <a><img src="images/home-page-imgs/graphic-design/graphic-design-11.jpg"  alt="Graphic Designing"></a>
+                                <a><img src="images/home-page-imgs/graphic-design/graphic-design-12.jpg"  alt="Graphic Designing"></a>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="faq-wrapper">
+            <div class="container">
+                <div class="innerfaq-main">
+                    <div class="logo-bg-creative remove-before">
+                        <h2 class="text-bg">Stuck With Questions?</h2>
+                    </div>
+                    <div class="inner-faq-section">
+                        <div class="right-section-faq">
+                            <article class="faq-p faq-article">
+                                <h4 class="faq-summary colored"><span class="faq-number">01</span> "Why is a high-quality online presence so critical for your firm?" <span class="drop-down-faq">&#711;</span></h4>
+                                <p class="faq-open">"The firm's online presence persistently validates it to transfigure into a brand and attract a larger audience. As a result, the company will be able to develop a web design appropriate to its requirements and flourish in the ensuing years. Customers will develop trust in your brand as a result of this. Online customers may discover about your firm while also engaging with your identity in a more subtle manner. Having a strong digital footprint may not only raise customer perception but can also help to develop your brand by increasing credibility."</p>
+                                <p class="faq-open">"Swaragh, being one of the leading web development designers in Bangalore has contributed its services to the development of several websites."</p>
+                            </article>
+                            <article class="faq-p2 faq-article">
+                                <h4 class="faq-summary2"><span class="faq-number">02</span> "How do I get my website ranked on the first page of google? " <span class="drop-down-faq">&#711;</span></h4>
+                                <p>Ranking on the first page of Google is the result of SEO-friendly content on the website. Understanding the customer preferences and providing content with the right keyword and unambiguous content making it easy for the clients to get through the website is the biggest challenge. Balancing with the right keywords and quality-rich content is the key to ranking number 1 on the google search page.</p> <p>Swaragh, being one of the leading web development designers in Bangalore has contributed its services in the field of digital marketing and has been a part of many grand success stories of several websites and brands.</p>
+                            </article>
+                            <article class="faq-p3 faq-article">
+                                <h4 class="faq-summary3"><span class="faq-number">03</span> Why is responsive design very important? <span class="drop-down-faq">&#711;</span></h4>
+                                <p>In essence, responsive design is a method of creating a website that seamlessly adapts its information and components to fit the screen resolution on which it is displayed. It stops graphics from being broader than the formats and saves mobile users from having to do additional work to understand your material. This approach will also help the website to reach a wider perspective.</p> <p>Swaragh, being one of the leading web development designers in Bangalore has made sure that all their websites that have been worked upon so far come up with a responsive design with their web design and development.</p>
+                            </article>
+                        </div>
+                        <hr>
+                        <div class="left-temporary-faq"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+    </main>
+
+
+
+
+
+
+    <!--#include virtual="includes/footer.html" -->
+
+    <!-- Banner Txt -->
+    <script>
+        var words = document.getElementsByClassName("word"), wordArray = [], currentWord = 0; words[currentWord].style.opacity = 1; for (var i = 0; i < words.length; i++)splitLetters(words[i]); function changeWord() { for (var r = wordArray[currentWord], e = currentWord == words.length - 1 ? wordArray[0] : wordArray[currentWord + 1], t = 0; t < r.length; t++)animateLetterOut(r, t); for (var t = 0; t < e.length; t++)e[t].className = "letter behind", e[0].parentElement.style.opacity = 1, animateLetterIn(e, t); currentWord = currentWord == wordArray.length - 1 ? 0 : currentWord + 1 } function animateLetterOut(r, e) { setTimeout(function () { r[e].className = "letter out" }, 80 * e) } function animateLetterIn(r, e) { setTimeout(function () { r[e].className = "letter in" }, 340 + 80 * e) } function splitLetters(r) { var e = r.innerHTML; r.innerHTML = ""; for (var t = [], n = 0; n < e.length; n++) { var a = document.createElement("span"); a.className = "letter", a.innerHTML = e.charAt(n), r.appendChild(a), t.push(a) } wordArray.push(t) } changeWord(), setInterval(changeWord, 2e3);
+    </script>
+    <!-- Banner Txt -->
+
+    <!-- About index -->
+    <script>
+        $('.count').each(function () {
+            $(this).prop('Counter', 0).animate({
+                Counter: $(this).text()
+            }, {
+                duration: 3000,
+                easing: 'swing',
+                step: function (now) {
+                    $(this).text(Math.ceil(now));
+                }
+            });
+        });
+    </script>
+    <!-- About index -->
+
+    <!-- Elipsis and Revel -->
+    <script src="https://cdn.jsdelivr.net/gh/tomik23/show-more@master/docs/showMore.min.js"></script>
+    <script>
+        new ShowMore('.text1');
+    </script>
+    <!-- Elipsis and Revel -->
+
+    <!-- Jquery CDN -->
+    <script src="https://code.jquery.com/jquery-3.6.1.js"></script>
+    <!-- Jquery CDN -->
+
+    <!-- Owl Carousel -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+    <!-- Owl Carousel -->
+
+    <script>
+        // go to top
+        $("#to-top").hide(), $(window).scroll(function () { $(this).scrollTop() > 100 ? $("#to-top").fadeIn() : $("#to-top").fadeOut() }), $("#to-top").click(() => ($("body,html").animate({ scrollTop: 0 }, 1500), !1));
+        // go to top
+    </script> 
+
+    
+    <!-- AOS -->
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init({
+        duration: 1200
+        });
+    </script>
+    <!-- AOS -->
+
+    <!-- Logo Slider -->
+    <script>
+        $('.logo-slider-details.owl-carousel').owlCarousel
+            ({
+                loop: true,
+                margin: 10,
+                dots: true,
+                autoplay: true,
+                nav: false,
+                navText: ["<i class='fas fa-caret-left'></i>", "<i class='fas fa-caret-right'></i>"],
+                responsive: {
+                    0: {
+                        items: 1
+                    },
+                    480: {
+                        items: 1
+                    },
+                    650: {
+                        items: 2
+                    },
+                    900: {
+                        items: 2
+                    },
+                    1000: {
+                        items: 3
+                    },
+                    1280: {
+                        items: 3
+                    },
+                    1600: {
+                        items: 3
+                    }
+                }
+            })
+    </script>
+    <!-- Logo Slider -->
+
+    <!-- Faq -->
+    <script>
+        $('.faq-summary').on('click', function()
+        {
+             $('.faq-p p').toggleClass('faq-open') 
+             $('.faq-p2 p').removeClass('faq-open') 
+             $('.faq-p3 p').removeClass('faq-open') 
+             $('.faq-article:nth-child(1) h4').toggleClass('colored')
+             $('.faq-article:nth-child(2) h4').removeClass('colored')
+             $('.faq-article:nth-child(3) h4').removeClass('colored')
+        });
+       $('.faq-summary2').on('click', function()
+        {
+            $('.faq-p2 p').toggleClass('faq-open') 
+            $('.faq-p p').removeClass('faq-open') 
+            $('.faq-p3 p').removeClass('faq-open') 
+            $('.faq-article:nth-child(2) h4').toggleClass('colored')
+            $('.faq-article:nth-child(1) h4').removeClass('colored')
+            $('.faq-article:nth-child(3) h4').removeClass('colored')
+
+
+        });
+    
+        $('.faq-summary3').on('click', function()
+        {
+            $('.faq-p3 p').toggleClass('faq-open') 
+             $('.faq-p p').removeClass('faq-open') 
+             $('.faq-p2 p').removeClass('faq-open') 
+             $('.faq-article:nth-child(3) h4').toggleClass('colored')
+             $('.faq-article:nth-child(2) h4').removeClass('colored')
+             $('.faq-article:nth-child(1) h4').removeClass('colored')
+
+        });
+    </script>
+    <!-- Faq -->
+</body>
+
+</html>
